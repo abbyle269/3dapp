@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fcf4d79-c696-4b82-8fac-4e14721edcb8" name="webaapp" url="https://unix.sussex.ac.uk">
+        <fileTransfer rootFolder="/its/home/tl366/public_html/3dapp/" accessType="SFTP" host="unix.sussex.ac.uk" port="22" sshConfigId="bd0a9060-c971-4a54-9808-f5b47d90f6fb" sshConfig="tl366@unix.sussex.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
